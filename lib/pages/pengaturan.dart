@@ -157,11 +157,10 @@ class _PengaturanPageState extends State<PengaturanPage> {
                     SizedBox(height: 10),
                     Text('Aplikasi ini dibuat oleh :'),
                     Text(
-                      'Nama : Robert Tijani Syaifunnawas',
+                      'Nama : Yulia Mayangsari',
                       overflow: TextOverflow.ellipsis,
                     ),
-                    Text('NIM : 2141764089'),
-                    Text('Tanggal : 23 September 2023'),
+                    Text('NIM : 2141764055'),
                   ],
                 )
               ],
